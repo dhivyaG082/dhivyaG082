@@ -1,4 +1,5 @@
 
+
 # 💻 Dhivya G | CSE Student | MERN Developer | Open Source Contributor
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=false&width=435&lines=Hi+there!+I'm+Dhivya+G.;A+MERN+Stack+Developer+%7C+Open+Source+Contributor;Passionate+about+Building+Smart+Tools+%26+Learning+New+Tech)
