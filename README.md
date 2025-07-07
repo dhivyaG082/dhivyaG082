@@ -27,6 +27,7 @@ Hi! I'm **Dhivya G**, a passionate final-year Computer Science Engineering stude
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white)
 
 ### 🌐 Web & Backend  
+
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -46,7 +47,7 @@ Hi! I'm **Dhivya G**, a passionate final-year Computer Science Engineering stude
 *Stack*: Node.js, Express, MongoDB  
 📖 Manage and update recipes via CRUD operations. Includes ThunderClient-tested API endpoints.
 
-### 🧩 [JSON Crack Tool](https://github.com/dhivyaG082/jsoncrack.com)  
+### 🧩 [SEO Audit Tool](https://github.com/dhivyaG082/jsoncrack.com)  
 *Stack*: JavaScript, HTML/CSS, TypeScript  
 📊 Transform and visualize JSON with real-time schema and conversion features.
 
