@@ -26,7 +26,7 @@ Hi! I'm **Dhivya G**, a passionate final-year Computer Science Engineering stude
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white)
 
-### 🌐 Web & Backend  
+### 🌐 Web & Backend
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
@@ -51,7 +51,7 @@ Hi! I'm **Dhivya G**, a passionate final-year Computer Science Engineering stude
 *Stack*: JavaScript, HTML/CSS, TypeScript  
 📊 Transform and visualize JSON with real-time schema and conversion features.
 
-### 🚗 Automatic Car Parking System  
+### 🚗 Automatic Car Parking System 
 *Stack*: ESP32, Ultrasonic Sensor, Arduino IDE  
 🚘 Smart parking system with real-time sensor data and level detection.
 
