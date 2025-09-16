@@ -5,6 +5,7 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=false&width=435&lines=Hi+there!+I'm+Dhivya+G.;A+MERN+Stack+Developer+%7C+Open+Source+Contributor;Passionate+about+Building+Smart+Tools+%26+Learning+New+Tech)
 
 ---
+[![An image of @dhivyag082's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/dhivyag082)](https://holopin.io/@dhivyag082)
 
 ## 👋 About Me
 
