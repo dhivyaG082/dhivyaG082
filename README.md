@@ -9,6 +9,8 @@
 
 ## 👋 About Me
 
+Fiverr Gig : https://www.fiverr.com/s/5r4kmV3
+
 Hi! I'm **Dhivya G**, a passionate final-year Computer Science Engineering student actively contributing to open-source and developing full-stack web apps with real-world impact.
 
 - 🎓 *Student at*: K.S.Rangasamy College of Technology (B.E., CSE – 2026)
